@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss","webpack://src/Tabs.scss"],"names":[],"mappings":"AAAA,KACE,YAAa,CACb,YAAa,CACb,kBAAmB,CACnB,qBAAsB,CCJxB,QACE,wBAAoC","file":"main.47759bdf.chunk.css","sourcesContent":[".App {\n  padding: 50px;\n  display: flex;\n  align-items: center;\n  flex-direction: column;\n}\n",".active {\n  background-color: hsl(48, 100%, 96%);\n}\n"]}
